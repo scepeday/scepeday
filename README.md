@@ -8,14 +8,14 @@
 [![GitHub scepeday](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/scepeday)
 
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdlNnhwczJuN3JrMG80YmpqczRsdm9iZnJwNGh3YmxhMDNuZ2U4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdlNnhwczJuN3JrMG80YmpqczRsdm9iZnJwNGh3YmxhMDNuZ2U4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width="30"> A little more about me...  
 
 ```javascript
 const thai = {
   code: [Javascript, HTML, CSS, Python, Java, C#],
   tools: [React, Node, Styled-Components,Docker, Linux],
   architecture: ["microservices", "event-driven", "design system pattern"],
-    challenge: "I am at School, trying to get everything the best I can to get a job as a developer or an IT technician :)"
+    challenge: "Trying to get everything done the best I can to get a job as a developer or an IT technician :)"
 }
 ```
 
@@ -24,15 +24,6 @@ const thai = {
 ---
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=right>
-    <a href="https://github.com/scepeday/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scepeday&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br><br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=scepeday&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
