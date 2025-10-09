@@ -15,15 +15,11 @@ const thai = {
   code: [Javascript, HTML, CSS, Python, Java, C#],
   tools: [React, Node, Styled-Components,Docker, Linux],
   architecture: ["microservices", "event-driven", "design system pattern"],
-    challenge: "Trying to get everything done the best I can to get a job as a developer or an IT technician :)"
+    challenge: "Trying to get everything done the best I can to get a
+                job as a developer or an IT technician :)"
 }
 ```
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ1bzBwaW05ZDRxamJsbjRmMWN1ZXNnOXc4dHhnNGN0endjbjRvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwEx3sapoXg5FPa/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 ---
-
-<h2 align="center">⚡ Stats ⚡</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scepeday&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
