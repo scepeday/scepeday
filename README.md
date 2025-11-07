@@ -13,7 +13,7 @@
 ```javascript
 const santiago = {
   code: [Javascript, HTML, CSS, Python, Java, C#],
-  tools: [React, Node, Styled-Components,Docker, Linux],
+  tools: [Styled-Components, Docker, Linux(Arch c:)],
 challenge: "Trying to get everything done the best I can to get a job as a developer or an IT technician :)"
 }
 ```
