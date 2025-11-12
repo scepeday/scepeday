@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate computer science engineer with a love for
 
 ## About Me
 
-- 🎓 **Major**: Software Engineering 
+- 🎓 **B.D**: Computer Science
 - 📍 **Location**: Toronto - Canada
 - 💬 **Ask me about**: ThreeJS, Python, Data Engineering, Web Development, MMA  
 - ⚡ **Fun Fact**: I train MMA but I'm actually a pretty nice guy 
