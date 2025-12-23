@@ -8,7 +8,7 @@ Backend enthusiast | Design-minded | Heavily tattooed, highly nerdy about data e
 
 ## What I am doing now 🧑‍💻:
 
-- 🔭 I’m currently diving deeper into deployment tooling—specifically containerization with Docker and managing Linux-based server environments. Also focusing on unit and integration testing for reliable frontend.
+- 🔭 I’m currently diving deeper into compilers, writing my own in C++ and creating more projects in Python.
 - ✨ Currently studying Web Development full-time.
 - 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/santiagocepeda/)
 
