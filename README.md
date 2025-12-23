@@ -1,6 +1,6 @@
 # Hey, I'm Santiago 👋
 
-Backend enthusiast | Design-minded | Heavily tattooed, highly nerdy about data engineering and software development.
+Backend enthusiast | Design-minded | Heavily tattooed, highly nerdy.
 
 🇨🇦 **Based in**: Toronto
 
@@ -8,7 +8,7 @@ Backend enthusiast | Design-minded | Heavily tattooed, highly nerdy about data e
 
 ## What I am doing now 🧑‍💻:
 
-- 🔭 I’m currently diving deeper into compilers, writing my own in C++ and creating more projects in Python.
+- 🔭 I’m currently diving deeper into compilers (writing my own in C++), data engineering (creating more projects in Python) and software development.
 - ✨ Currently studying Web Development full-time.
 - 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/santiagocepeda/)
 
