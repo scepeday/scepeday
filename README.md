@@ -8,7 +8,7 @@ Backend enthusiast | Design-minded | Heavily tattooed, highly nerdy.
 
 ## What I am doing now 🧑‍💻:
 
-- 🔭 I’m diving deeper into compilers (writing my own in C++), data engineering (creating more projects in Python) and software development.
+- 🔭 I’m diving deeper into compilers (writing my own in C++), data engineering (creating more projects in Python) and web development.
 - ✨ Currently studying Web Development full-time.
 - 🌏 Contact me on [LinkedIn](https://www.linkedin.com/in/santiagocepeda/)
 
